@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "418015642451",
+    "project_id": "cinephy-e1643",
+    "storage_bucket": "cinephy-e1643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418015642451:android:11c3cf087a02843dd457a6",
+        "android_client_info": {
+          "package_name": "com.example.login_sessions_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418015642451-c57qakksvcgj984u0lq5mbermrpthaop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCgbUH3oE4m6xzG9NQj8uQM-eSwL8h6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418015642451-c57qakksvcgj984u0lq5mbermrpthaop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418015642451-msgta23ucluqvchbjf389sm5lq72k5cf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.movieproduction"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418015642451:android:83e5a901fe9d4d0ed457a6",
+        "android_client_info": {
+          "package_name": "com.example.movieproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418015642451-2qq6afjuilj0ep6k9p8onqf2lehk811f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieproduction",
+            "certificate_hash": "7fab32824cb3328515acb02c23ed00aa90096506"
+          }
+        },
+        {
+          "client_id": "418015642451-gv8h7foc6d3q8ifoh0alpaelb8o9v1v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieproduction",
+            "certificate_hash": "4b8c083c058bd5f094877a150f729ce870f25786"
+          }
+        },
+        {
+          "client_id": "418015642451-c57qakksvcgj984u0lq5mbermrpthaop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCgbUH3oE4m6xzG9NQj8uQM-eSwL8h6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418015642451-c57qakksvcgj984u0lq5mbermrpthaop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418015642451-msgta23ucluqvchbjf389sm5lq72k5cf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.movieproduction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
