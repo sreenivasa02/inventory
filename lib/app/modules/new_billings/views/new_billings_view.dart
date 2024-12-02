@@ -19,7 +19,7 @@ class NewBillingsView extends GetView<NewBillingsController> {
       appBar: PreferredSize(
         preferredSize: Size.fromHeight(kToolbarHeight),
         child: CustomAppBar(
-          title: 'New Billing',//mainController.titles[mainController.selectedTabIndex.value],
+          title: 'New Billing.......',//mainController.titles[mainController.selectedTabIndex.value],
           menuIconKey: newBillingsView,
           onMenuPressed: () {
             if (mainController.isDrawerOpen.value) {
